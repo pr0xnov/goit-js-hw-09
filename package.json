@@ -1,0 +1,22 @@
+{
+  "name": "goit-module-09",
+  "version": "1.0.0",
+  "description": "homework #8 with parcel ",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open", 
+    "build": "parcel build index.html"
+  },
+  "author": "Pasha Prohnov",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "parcel-plugin-handlebars-precompile": "^1.0.2",
+    "parcel-plugin-nuke-dist": "^1.0.1",
+    "posthtml-include": "^1.7.1",
+    "sass": "^1.38.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
