@@ -1,7 +1,7 @@
 {
   "name": "goit-module-09",
   "version": "1.0.0",
-  "description": "homework #8 with parcel ",
+  "description": "homework #9 with parcel ",
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html --open", 
